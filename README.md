@@ -1,4 +1,3 @@
-
 ---
 
 # 🚀 Coding-Snipets-examples
@@ -8,6 +7,8 @@ This open-source repository provides a collection of practical, hands-on code sn
 Whether you're a beginner or an experienced developer, you'll find easy-to-understand examples to help you solve common tasks and problems in your projects.
 
 ## 📚 Features
+
+---
 
 - ✍️ All snippets are written by hand for clarity and simplicity.
 - 🗂️ Organized by programming language and framework for easy navigation.
